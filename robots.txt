@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://everydaytools.dm5hrczjgr.workers.dev/sitemap.xml
